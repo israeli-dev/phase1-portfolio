@@ -1,0 +1,11 @@
+{
+    "name": "Israel Kolawole",
+    "age": 30,
+    "profession": "Teacher",
+    "skills": [
+        "Python",
+        "Physics",
+        "AI"
+    ],
+    "country": "Nigeria"
+}
