@@ -21,8 +21,8 @@ with open("sample_data.json", "w") as file:
 with open("sample_data.json", "r") as file:
     loaded_data = json.load(file)
 
-print("✅ JSON file created successfully!")
-print("📄 Loaded Data:")
+print(" JSON file created successfully!")
+print(" Loaded Data:")
 
 print("="*30)
 same_content = json.dumps(loaded_data, indent=4)
