@@ -2,7 +2,7 @@ import json
 from datetime import datetime
 
 # Step 1: Get user input
-print("🧠 Welcome to the Dictionary → JSON Converter!")
+print(" Welcome to the Dictionary → JSON Converter!")
 print("Let's create your custom data file.\n")
 
 data = {}
@@ -29,3 +29,4 @@ with open(filename, "w") as file:
 print("\n JSON file created successfully!")
 print(" Here's what it looks like:")
 print(json_data)
+
